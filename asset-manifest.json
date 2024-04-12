@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-website/static/css/main.778efc67.css",
+    "main.js": "/Ecommerce-website/static/js/main.f7ef524b.js",
+    "static/media/01.webp": "/Ecommerce-website/static/media/01.acdf8402de97e285f5f7.webp",
+    "static/media/huronbottle.webp": "/Ecommerce-website/static/media/huronbottle.c09d96cce7ce9d7ed319.webp",
+    "static/media/logo.avif": "/Ecommerce-website/static/media/logo.45fcb2dd27bf9f9bb28b.avif",
+    "index.html": "/Ecommerce-website/index.html",
+    "main.778efc67.css.map": "/Ecommerce-website/static/css/main.778efc67.css.map",
+    "main.f7ef524b.js.map": "/Ecommerce-website/static/js/main.f7ef524b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.778efc67.css",
+    "static/js/main.f7ef524b.js"
+  ]
+}
